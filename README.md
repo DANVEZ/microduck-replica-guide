@@ -154,7 +154,8 @@ Radxa Zero 3W 在 2026 年 9 月处于**断货 + 溢价**状态，国内渠道�
 ├── README.md                    ← 你正在看的
 ├── DISCLAIMER.md                ← 完整免责声明
 ├── SOURCES.md                   ← 全部数据来源与署名
-├── LICENSE                      ← CC BY-NC-SA 4.0
+├── NOTICE.md                    ← 许可说明（为什么是这个许可）
+├── LICENSE                      ← CC BY-NC-SA 4.0 完整法律文本
 ├── docs/
 │   ├── BOM-采购清单.md          ← 46 项可购物料，含淘宝实链、成本对比
 │   └── SOP-施工流程.md          ← 9 阶段施工流程，每步带验收条件 + 翻车点
@@ -241,7 +242,8 @@ Radxa Zero 3W 在 2026 年 9 月处于**断货 + 溢价**状态，国内渠道�
 - ❌ **不得用于商业用途**
 - ✅ 衍生作品必须采用**相同许可**
 
-详见 [`LICENSE`](LICENSE) 与 [`SOURCES.md`](SOURCES.md)。
+详见 [`NOTICE.md`](NOTICE.md)（许可说明）、[`LICENSE`](LICENSE)（完整法律文本）
+与 [`SOURCES.md`](SOURCES.md)（署名）。
 
 ### 商标声明
 
